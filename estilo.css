@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+header {
+    font-size: 30pt;
+    text-align: center;
+    background: fixed rgba(13, 253, 5, 0.397);
+    border-radius: 10px;
+    color: greenyellow;
+    width: 290px;
+    margin: auto;
+    font-style: Arial;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.301);
+
+
+}
+
+div#img_1 {
+    margin: center;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.301);
+    text-align: center;
+    }
+
+section {
+
+}
+footer {
+    background: fixed rgba(13, 253, 5, 0.397);
+    border-radius: 10px;
+    color: greenyellow;
+    width: 115px;
+    margin: auto;
+    font-style: italic;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.301);
+}
