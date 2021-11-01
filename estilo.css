@@ -1,5 +1,13 @@
 body {
     background-color: black;
+   /*background: url("https://thumbs2.imgbox.com/86/ea/ohW8MGoj_t.png");
+   background-repeat:repeat-x*/
+   background: url(https://thumbs2.imgbox.com/86/ea/ohW8MGoj_t.png) no-repeat center top fixed;
+
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
 }
 header {
     font-size: 30pt;
@@ -21,9 +29,18 @@ div#img_1 {
     text-align: center;
     }
 
-section {
+/*div#bolinha{
+    width: 500; 
+    height: 500px; 
+    border: solid; 
+    border-color: greenyellow; 
+    background-color: id="img_1";
 
 }
+
+section {
+
+} */
 footer {
     background: fixed rgba(13, 253, 5, 0.397);
     border-radius: 10px;
